@@ -1,3 +1,6 @@
 [submodule "PII_P1_a_P2"]
 	path = PII_P1_a_P2
 	url = https://github.com/ucudal/PII_P1_a_P2.git
+[submodule "PII_PosterObjectsClassesMessages"]
+	path = PII_PosterObjectsClassesMessages
+	url = https://github.com/ucudal/PII_PosterObjectsClassesMessages.git
